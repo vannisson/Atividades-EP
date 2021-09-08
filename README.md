@@ -15,6 +15,8 @@ As atividades foram realizadas na plataforma <a href="https://research.google.co
 
 - <a href="https://colab.research.google.com/drive/1UZvxdYGVOWpqAlW39GIfPECTwFK5oKS_?usp=sharing">Atividade 5</a>
 
+- <a href="https://colab.research.google.com/drive/1ztsOY3u8uKA5RAIJo1KKvOy_16Zlrllw?usp=sharing">Atividade 6</a>
+
 
 <h3>Provas 📝</h3>
 
